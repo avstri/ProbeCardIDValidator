@@ -1,0 +1,5 @@
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\ProbeCardIDValidator.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\ProbeCardIDValidator.pdb
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\obj\Release\ProbeCardIDValidator.Resources.resources
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\obj\Release\ProbeCardIDValidator.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\obj\Release\ProbeCardIDValidator.pdb

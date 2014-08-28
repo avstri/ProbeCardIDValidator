@@ -1,0 +1,42 @@
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\ProbeCardIDValidator.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\ProbeCardIDValidator.pdb
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\Quasi97.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\Gigasoft.ProEssentials.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\ISIHDWDiagNET.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\ISIServdotNet.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\muParserNET2.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\PreampBaseNET.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\muParserNET.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\Quasi97.pdb
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\Quasi97.xml
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\Gigasoft.ProEssentials.xml
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\ISIServdotNet.pdb
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\bin\Debug\ISIServdotNet.xml
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\obj\Debug\ProbeCardIDValidator.Resources.resources
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\obj\Debug\ProbeCardIDValidator.dll
+C:\Users\AStrigelskiy\AppData\Local\Temporary Projects\ProbeCardIDValidator\obj\Debug\ProbeCardIDValidator.pdb
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\ProbeCardIDValidator.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\ProbeCardIDValidator.pdb
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\Quasi97.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\Gigasoft.ProEssentials.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\ISIHDWDiagNET.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\ISIServdotNet.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\muParserNET2.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\PreampBaseNET.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\muParserNET.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\Quasi97.pdb
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\Quasi97.xml
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\Gigasoft.ProEssentials.xml
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\ISIServdotNet.pdb
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\bin\Debug\ISIServdotNet.xml
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\obj\Debug\ProbeCardIDValidator.Resources.resources
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\obj\Debug\ProbeCardIDValidator.dll
+C:\Documents\Visual Studio 2010\Projects\ProbeCardIDValidator\ProbeCardIDValidator\obj\Debug\ProbeCardIDValidator.pdb
+C:\Documents\Visual Studio 2010\Projects\NET\ProbeCardIDValidator.dll
+C:\Documents\Visual Studio 2010\Projects\NET\ProbeCardIDValidator.pdb
+C:\program files (x86)\integral solutions int'l\.net\ProbeCardIDValidator.dll
+C:\program files (x86)\integral solutions int'l\.net\ProbeCardIDValidator.pdb
+C:\program files\integral solutions int'l\.net\ProbeCardIDValidator.dll
+C:\program files\integral solutions int'l\.net\ProbeCardIDValidator.pdb
